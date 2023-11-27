@@ -1,0 +1,14 @@
+D:\srojsa\actividad 11\bin\Debug\net7.0\actividad 11.exe
+D:\srojsa\actividad 11\bin\Debug\net7.0\actividad 11.deps.json
+D:\srojsa\actividad 11\bin\Debug\net7.0\actividad 11.runtimeconfig.json
+D:\srojsa\actividad 11\bin\Debug\net7.0\actividad 11.dll
+D:\srojsa\actividad 11\bin\Debug\net7.0\actividad 11.pdb
+D:\srojsa\actividad 11\obj\Debug\net7.0\actividad 11.GeneratedMSBuildEditorConfig.editorconfig
+D:\srojsa\actividad 11\obj\Debug\net7.0\actividad 11.AssemblyInfoInputs.cache
+D:\srojsa\actividad 11\obj\Debug\net7.0\actividad 11.AssemblyInfo.cs
+D:\srojsa\actividad 11\obj\Debug\net7.0\actividad 11.csproj.CoreCompileInputs.cache
+D:\srojsa\actividad 11\obj\Debug\net7.0\actividad 11.dll
+D:\srojsa\actividad 11\obj\Debug\net7.0\refint\actividad 11.dll
+D:\srojsa\actividad 11\obj\Debug\net7.0\actividad 11.pdb
+D:\srojsa\actividad 11\obj\Debug\net7.0\actividad 11.genruntimeconfig.cache
+D:\srojsa\actividad 11\obj\Debug\net7.0\ref\actividad 11.dll
